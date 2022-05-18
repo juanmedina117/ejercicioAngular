@@ -1,0 +1,9 @@
+img {
+    display: flex;
+    justify-content: center;
+    width: 50px;
+}
+
+tr th {
+    text-transform: uppercase;
+}
